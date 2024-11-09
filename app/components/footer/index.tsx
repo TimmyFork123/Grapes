@@ -19,16 +19,16 @@ export function Footer() {
             <h4 className="text-lg font-semibold text-white mb-4">Quick Links</h4>
             <ul className="space-y-2 text-gray-300">
               <li>
-                <a href="#game" className="hover:text-purple-400 transition">Play Now</a>
+                <a href="https://iblockblast.com/game" className="hover:text-purple-400 transition">Play Now</a>
               </li>
               <li>
-                <a href="#features" className="hover:text-purple-400 transition">Features</a>
+                <a href="https://iblockblast.com/features" className="hover:text-purple-400 transition">Features</a>
               </li>
               <li>
-                <a href="#how-to-play" className="hover:text-purple-400 transition">How to Play</a>
+                <a href="https://iblockblast.com/how-to-play" className="hover:text-purple-400 transition">How to Play</a>
               </li>
               <li>
-                <a href="#testimonials" className="hover:text-purple-400 transition">Reviews</a>
+                <a href="https://iblockblast.com/testimonials" className="hover:text-purple-400 transition">Reviews</a>
               </li>
             </ul>
           </div>
@@ -61,7 +61,7 @@ export function Footer() {
             <ul className="flex space-x-4">
               <li>
                 <a 
-                  href="#" 
+                  href="https://iblockblast.com/" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-purple-400 transition"
@@ -72,18 +72,7 @@ export function Footer() {
               </li>
               <li>
                 <a 
-                  href="https://twitter.com/bourneliu66" 
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-purple-400 transition"
-                  aria-label="Twitter"
-                >
-                  <Twitter className="h-6 w-6" />
-                </a>
-              </li>
-              <li>
-                <a 
-                  href="#" 
+                  href="https://iblockblast.com/" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-purple-400 transition"
@@ -94,7 +83,7 @@ export function Footer() {
               </li>
               <li>
                 <a 
-                  href="#" 
+                  href="https://iblockblast.com/" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-purple-400 transition"
