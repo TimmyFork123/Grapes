@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is the source code of [Block Blast!](https://iblockblast.com) game.
+
+“Block Blast” is an engaging block puzzle game that challenges players to arrange and fit various shaped blocks into a grid. The goal is to clear rows or columns by filling them entirely, similar to classic Tetris gameplay. As blocks are cleared, players earn points and advance through levels that increase in difficulty. “Block Blast” offers a mix of strategy and quick thinking, as players must decide the best placement for each block to avoid running out of space. This game appeals to fans of puzzle and strategy games, providing hours of challenging and addictive gameplay.
+
+
 
 ## Getting Started
 
